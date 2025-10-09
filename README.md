@@ -41,7 +41,12 @@ Tired of complex setups or web scraping to get in-game stock data? This API prov
 ## 💡 A Note on Performance
 
 To ensure the data is always up-to-date, this API fetches information live when a request is made. This process can sometimes take a few seconds to complete. Additionally, as a serverless function, the first request after a period of inactivity may experience a "cold start," which adds a little extra delay.
-| Docs | [Docs](https://api-giahuy.duckdns.org/docs) |
+
+## 📚 API Documentation
+
+| Section | Link |
+|----------|------|
+| Docs | [View API Docs](https://api-giahuy.duckdns.org/docs) |
 
 ## 🎮 Supported Games
 
