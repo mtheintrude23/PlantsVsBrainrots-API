@@ -8,9 +8,9 @@
     <a href="https://api-giahuy.duckdns.org/"><strong>Visit the Homepage »</strong></a>
     <br />
     <br />
-    <a href="https://discord.gg/chynUJbdwX">Report a Bug</a>
+    <a href="https://discord.gg/MR4QN2a2kc">Report a Bug</a>
     ·
-    <a href="https://discord.gg/chynUJbdwX">Request a Game</a>
+    <a href="https://discord.gg/MR4QN2a2kc">Request a Game</a>
   </p>
 </p>
 
@@ -55,4 +55,4 @@ To ensure the data is always up-to-date, this API fetches information live when 
 | **Grow a Garden** | [`Grow A Garden API`](https://api-giahuy.duckdns.org/api/v3/growagarden/stock) | ✅ Online |
 | **Plants vs Brainrots** | [`Plants Vs Brainrots API`](https://api-giahuy.duckdns.org/api/v3/growagarden/stock) | ✅ Online |
 
-*Don't see the game you need? [Open an issue](https://discord.gg/chynUJbdwX) to request it!*
+*Don't see the game you need? [Open an issue](https://discord.gg/MR4QN2a2kc) to request it!*
