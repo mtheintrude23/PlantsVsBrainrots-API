@@ -56,3 +56,6 @@ To ensure the data is always up-to-date, this API fetches information live when 
 | **Plants vs Brainrots** | [`Plants Vs Brainrots API`](https://organic-shanghai-petition-witch.trycloudflare.com/api/pvb/stock) | ☑️ DEMO |
 
 *Don't see the game you need? [Open an issue](https://discord.gg/MR4QN2a2kc) to request it!*
+
+### Invite Our Bot
+[Invite](https://discord.com/oauth2/authorize?client_id=1423254272329383978&permissions=140392057968&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2FPtnuReU9hb&integration_type=0&scope=bot+messages.read)
