@@ -52,7 +52,7 @@ To ensure the data is always up-to-date, this API fetches information live when 
 
 | Game | API Endpoint | Status |
 | :--- | :--- | :--- |
-| **Grow a Garden** | [`Grow A Garden API`](https://api-giahuy.duckdns.org/api/v3/growagarden/stock) | ✅ Online |
-| **Plants vs Brainrots** | [`Plants Vs Brainrots API`](https://api-giahuy.duckdns.org/api/v3/growagarden/stock) | ✅ Online |
+| **Grow a Garden** | [`Grow A Garden API`](https://api-giahuy.duckdns.org/api/v3/growagarden/stock) | ❌️ OFFLINE (COMMING SOON) |
+| **Plants vs Brainrots** | [`Plants Vs Brainrots API`](https://organic-shanghai-petition-witch.trycloudflare.com/api/pvb/stock) | ☑️ DEMO |
 
 *Don't see the game you need? [Open an issue](https://discord.gg/MR4QN2a2kc) to request it!*
